@@ -9,7 +9,7 @@
   (global.Vue = factory());
 }(this, (function () { 'use strict';
 
-/*  */
+/* test */
 
 /**
  * Convert a value to a string that is actually rendered.
